@@ -1,4 +1,4 @@
 # django-demo
 First repository
 
-author- coder
+author- coder-dev
